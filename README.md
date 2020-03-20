@@ -1,1 +1,1 @@
-# SoSeq-segment
+# SoSeq-segmentation
