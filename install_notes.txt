@@ -1,0 +1,12 @@
+# Install conda
+
+# Create venv
+conda create -n soseq python=3.7
+conda activate soseq
+
+# install dependencies with conda
+conda install jupyter
+
+
+# make jupyter kernel work
+python -m ipykernel install --user --name soseq --display-name "Python (soseq)"
